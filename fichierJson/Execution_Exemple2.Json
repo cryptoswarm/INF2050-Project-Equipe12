@@ -1,0 +1,17 @@
+{
+  "activites": [
+    {
+      "description": "Spectacle de magie",
+      "prix_par_eleve": "15.95 $"
+    },
+    {
+      "description": "Sortie au Mont-Royal",
+      "prix_par_eleve": "15.95 $"
+    },
+    {
+      "description": "Glissades d'eau",
+      "prix_par_eleve": "19.45 $"
+    }
+  ]
+}
+

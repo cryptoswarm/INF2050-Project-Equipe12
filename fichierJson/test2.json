@@ -1,0 +1,24 @@
+{
+	"nombre_eleves": 20,
+	"age": 17,
+	"activites": [
+		{
+			"description": "Zoo de Granby",
+			"nombre_parents_accompagnateurs": 6,
+			"prix_unitaire_enfant": "10.00 $",
+			"prix_unitaire_adulte": "5.00 $",
+			"transport": 2,
+			"distance": 34,
+			"date": "2020-06-20"
+		},
+        {
+			"description": "Sortie au Mont-Royal",
+			"nombre_parents_accompagnateurs": 4,
+			"prix_unitaire_enfant": "20.00 $",
+			"prix_unitaire_adulte": "10.00 $",
+			"transport": 1,
+			"distance": 50,
+			"date": "2020-06-20"
+		}
+	]
+}

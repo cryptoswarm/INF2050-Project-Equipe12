@@ -1,0 +1,16 @@
+{
+  "activites": [
+    {
+      "description": "Spectacle de marionnettes",
+      "prix_par_eleve": "15.80 $"
+    },
+    {
+      "description": "Base de plein air",
+      "prix_par_eleve": "20.30 $"
+    },
+    {
+      "description": "Zoo de Granby",
+      "prix_par_eleve": "20.25 $"
+    }
+  ]
+}

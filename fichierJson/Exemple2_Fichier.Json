@@ -1,0 +1,33 @@
+{
+  "nombre_eleves": 20,
+  "age": 5,
+  "activites": [
+    {
+      "description": "Spectacle de magie",
+      "nombre_parents_accompagnateurs": 2,
+      "prix_unitaire_enfant": "5.45 $",
+      "prix_unitaire_adulte": "10.00 $",
+      "transport": 0,
+      "distance": 0,
+      "date": "2019-10-14"
+    },
+    {
+      "description": "Sortie au Mont-Royal",
+      "nombre_parents_accompagnateurs": 2,
+      "prix_unitaire_enfant": "5.45 $",
+      "prix_unitaire_adulte": "10.00 $",
+      "transport": 1,
+      "distance": 18,
+      "date": "2019-12-15"
+    },
+    {
+      "description": "Glissades d'eau",
+      "nombre_parents_accompagnateurs": 2,
+      "prix_unitaire_enfant": "5.45 $",
+      "prix_unitaire_adulte": "10.00 $",
+      "transport": 2,
+      "distance": 30,
+      "date": "2020-06-20"
+    }
+  ]
+}

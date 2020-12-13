@@ -1,0 +1,139 @@
+INF2050 – Outils et pratiques de développement logiciel
+Automne 2019
+
+Travail pratique 2
+Professeur : Jacques Berger
+
+Composition de l'équipe:
+
+Nom et prénom:
+    1) Safir, Mokhtar 
+    2) Lai, Ting-Yang 
+    3) Diallo, Mamadou Aliou 
+    4) Nguyen, John
+    5) Ngom, Mbaye
+
+Code permanent:
+    1) SAFM14118605 
+    2) LAIT20118302 
+    3) DIAM02079904 
+    4) NGUJ05029708
+    5) NGOM11079802
+
+Adresse courriel: 
+    1) Mokhtar.safir@outlook.com 
+    2) tingyang.lai@gmail.com 
+    3) 224alioudiallo@gmail.com 
+    4) johnh_nguyen@yahoo.ca
+    5) ke891078@ens.uqam.ca
+
+Le meilleur moyende communication:
+    1) Courriel, 514-757-3658
+    2) Facebook Messenger
+    3) Courriel, 438-341-9207
+    4) Courriel, 514-969-8646, Facebook Messenger
+    5) Courriel, 514-691-1107
+
+Les disponibilités:
+    1) Jour 
+    2) Lun : 14 à 18, Jeu : 14 à 21, Sam : 12 à 19, Dim : 12 à 19 
+    3) Tout temps 
+    4) Tout temps
+    5) tout les jours sauf samedi
+
+Une description des forces, faiblesses et compétences techniques:
+    Forces:
+    1) Détermination, Persévérance, Aptitude de travailler en équipe. 
+    2) Analytique, Perfectionniste
+    3) Motivativer, Curieux, Méthodique
+    4) Curieux, Méthodique, Créativité
+    5) Curieux , Attentf
+
+    Faiblesses:
+    2) Lent, Habitué à travailler seul
+    3) Inattentif sur les détails.
+    4) Perfectionniste, Multitasking
+
+    Compétences :
+    2) Java, Excel
+
+Identifiant Github:
+    1) cryptoswarm 
+    2) nightslty 
+    3) alioudiallo224 
+    4) thisisthejohn
+    5) mbaye8
+
+
+         
+
+Charte de l'équipe
+
+● Comment vous allez répartir les tâches dans l'équipe:
+
+Les tâches vont être réparties entre les membres de l’équipe d’une façon équitable.
+Une fois l’énoncé du travail sera disponible, nous nous donnerons chacun 1 à 2 jours
+pour faire des analyses préliminaires. Par la suite, une rencontre de l’équipe devra être
+planifié. Pendant la rencontre, chaque membre pourrait choisir la tâche qui lui convient
+en considérant les forces , faiblesse et préférence de chaque membre.
+Le plus important dans cette étape est le fait que chaque membre soit satisfait.
+
+● La méthode de travail que vous prévoyez utiliser:
+
+Au moment que le travail est partagé, nous établirons une date pour terminer le travail,
+cette date doit être 5 jours avant la date de la remise.
+De plus, nous ferons une mini-rencontre à chaque jour, avant 18:00.
+La rencontre peut être faite physiquement ou virtuellement (en ligne).
+Dans cette rencontre, chaque membre devra parler de :
+
+1. L’avancement de son travail, où est-ce qu’il est rendu.
+2. Des problèmes qui lui empêche d’avancer.
+3. De 2, s’il y a des problèmes, son plan pour régler le problème.
+Cette rencontre a pour but que tout le monde dans l’équipe ait une vue globale de
+l’avancement du travail et de s’aider aussitôt que possible.
+
+● La méthode de résolution de conflit que vous prévoyez utiliser:
+
+La meilleure méthode à suivre pour résoudre un conflit est la discussion entre les
+membres de l'équipe, jusqu’à temps qu’un compromis d’une façon dont chacun soit
+satisfait.
+De plus,il faut agir le plus tôt que possible et ne faut surtout pas laisser accumuler les
+problèmes.
+
+Un respect entre les membres de l'équipe en situation de conflit est un facteur clé. Par
+respect, on veut dire :
+
+- Aucune insulte.
+- Discuter du fait, pas la personne.
+- Aucune voix élevée.
+- Aucun geste impoli.
+Si, dans le cas où une entente n’est pas possible, nous passerons au vote, et dans le
+cas de 2 contre 2, on demande l’opinion d’une 3e personne. Ex : Le professeur.
+
+● Les sanctions prévues pour un membre de l'équipe qui ne remplit pas ses
+engagements:
+
+Nous nous attendons que chacun donne son effort pour le travail et a le respect envers
+les membres.
+Dans le cas ou membre ne remplit pas ses engagements, un premier avertissement
+sera lui donné.
+Si, après un délai raisonnable, aucune amélioration n’est observée, un 2e
+avertissement lui sera donné et la personne devra acheter un muffin + un café pour
+chaque membre.
+De plus, un point sera déduit lors de son évaluation par les pairs.
+S’il n’y aura toujours pas d’amélioration, la sanction sera répétée à chaque
+avertissement, et un maximum de 4 points sera déduit de son évaluation, c’est-à-dire
+que la personne aura une note de 6/10 pour son évaluation par les pairs.
+Par contre, si l’un des membres fait **absolument rien,** une note de 0 sera attribué.
+
+● Votre définition de "Terminé":
+
+Dans le contexte de développement logiciel, notre définition de “Terminé” est :
+1. Le code compile sans problème.
+2. Le code fonctionne et répond au problème.
+3. Les commentaires sont pertinents.
+4. Le code doivent être “beautified” par le beautifier de IntelliJ pour l’uniformité.
+5. Des cas tests sont effectués
+
+
+

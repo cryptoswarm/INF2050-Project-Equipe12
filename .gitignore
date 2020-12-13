@@ -1,0 +1,13 @@
+# Java Class #
+*.class
+
+# Intelli J folder #
+/.idea
+
+/target/classes
+
+/target/site
+
+/target/surefire
+.DS_Store
+.Idea

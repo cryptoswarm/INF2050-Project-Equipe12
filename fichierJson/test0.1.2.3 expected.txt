@@ -1,0 +1,51 @@
+﻿test0.json
+	"nombre_eleves": 23,
+	"age": 8,
+//"description": "Spectacle de magie",
+//"prix_par_eleve": "14.00 $"
+
+//"description": "Sortie au Mont-Royal",
+//"prix_par_eleve": "13.80 $"
+
+//"description": "Glissades d'eau",
+//"prix_par_eleve": "28.85 $"
+
+// "description": "Spectacle de marionnettes",
+//"prix_par_eleve": "32.85 $"
+
+
+test1.json
+	"nombre_eleves": 20,
+	"age": 5,
+// "description": "Spectacle de marionnettes",
+//"prix_par_eleve": "14.20 $"
+
+//"description": "Base de plein air",
+//"prix_par_eleve": "9.00 $"
+
+//"description": "Zoo de Granby",
+//"prix_par_eleve": "26.80 $"
+
+
+test2.json
+	"nombre_eleves": 20,
+	"age": 17,
+// "description": "Spectacle de marionnettes",
+// format date erronée
+
+//"description": "Base de plein air",
+//format montant erroné
+
+//"description": "Zoo de Granby",
+//"prix_par_eleve": "26.90 $"
+
+//"description": "Zoo de Granby",
+// code transport invalide
+
+//"description": "Sortie au Mont-Royal",
+//"prix_par_eleve": "39.65 $"
+
+
+test3.json
+
+// "Age erroné : doit ëtre entre 1-17"

@@ -1,0 +1,33 @@
+{
+  "nombre_eleves": 30,
+  "age": 9,
+  "activites": [
+    {
+      "description": "Spectacle de marionnettes",
+      "nombre_parents_accompagnateurs": 3,
+      "prix_unitaire_enfant": "5.45 $",
+      "prix_unitaire_adulte": "10.00 $",
+      "transport": 0,
+      "distance": 45,
+      "date": "2020-06-20"
+    },
+    {
+      "description": "Base de plein air",
+      "nombre_parents_accompagnateurs": 3,
+      "prix_unitaire_enfant": "5.45 $",
+      "prix_unitaire_adulte": "10.00 $",
+      "transport": 1,
+      "distance": 45,
+      "date": "2020-06-20"
+    },
+    {
+      "description": "Zoo de Granby",
+      "nombre_parents_accompagnateurs": 3,
+      "prix_unitaire_enfant": "5.45 $",
+      "prix_unitaire_adulte": "10.00 $",
+      "transport": 2,
+      "distance": 45,
+      "date": "2020-06-20"
+    }
+  ]
+}
